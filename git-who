@@ -13,3 +13,4 @@ git blame -L 5,5 develop foo #@congbailing
 git blame -L 5,5 s foo#@lvguiqiang
 git blame -L 5,5 develop foo#@ligan
 git blame develop -L 5,5 foo  #@jinfan
+git blame develop -L 5,5 foo #@jinfan
